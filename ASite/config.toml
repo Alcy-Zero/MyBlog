@@ -1,6 +1,6 @@
 baseurl = ""
 title = "Chenbin‘s Blog"
-theme = "CleanWhite"
+theme = ""
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
 disqusShortname = "吕晨宾"
