@@ -1,6 +1,7 @@
 ### 此博客使用方法：
 
-$ git clone git@github.com:Alcy-Zero/MyBlog.git			
+$ git clone git@github.com:Alcy-Zero/MyBlog.git		
+	
 $ cd MyBlog
 #### 构建镜像：
 $ sh build.sh
