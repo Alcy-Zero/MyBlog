@@ -14,6 +14,3 @@ $ sh stop.sh
 ### 访问地址：
 http://192.168.99.100:1313/
 
-#### douker用户可直接通过：
-
-http://localhost:1313/
