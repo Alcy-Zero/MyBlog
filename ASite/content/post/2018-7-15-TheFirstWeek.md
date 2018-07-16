@@ -10,7 +10,7 @@ image: 		"https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality
 URL: 		"/2018/07/15/the-first-week/"
 tags:
     - weekly
-categories: [ "Tech"]
+categories: [ "Weekly"]
 ---
 
 > “	Let's start. ”

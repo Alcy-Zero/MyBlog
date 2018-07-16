@@ -10,7 +10,7 @@ URL: 		"/2018/07/21/the-second-week/"
 image: 		"https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&quality=100&size=b4000_4000&sec=1531638442&di=28f4550efc1ff600241c24d4b34614de&src=http://s10.sinaimg.cn/bmiddle/625bf8cat74a22803d789&690"
 tags:
     - weekly
-categories: [ "Tech"]
+categories: [ "Weekly"]
 ---
 
 
